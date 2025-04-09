@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="VcsDirectoryMappings" defaultProject="true" />
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AspireApp1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AspireApp2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BlazorApp1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ConsoleApp1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ConsoleApp2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../WebApplication1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../codecrafters-redis-csharp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../crashmatusow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../omega" vcs="Git" />
+  </component>
 </project>
