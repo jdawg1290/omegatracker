@@ -13,39 +13,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = omega
 build_property.RootNamespace = omega
-build_property.ProjectDir = /Users/jeremiahcooley/RiderProjects/omega/omega/
+build_property.ProjectDir = /Users/jeremiahcooley/RiderProjects/omegatracker/omega/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/jeremiahcooley/RiderProjects/omega/omega
+build_property.MSBuildProjectDirectory = /Users/jeremiahcooley/RiderProjects/omegatracker/omega
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/jeremiahcooley/RiderProjects/omega/omega/App.razor]
+[/Users/jeremiahcooley/RiderProjects/omegatracker/omega/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jeremiahcooley/RiderProjects/omega/omega/Pages/Counter.razor]
+[/Users/jeremiahcooley/RiderProjects/omegatracker/omega/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jeremiahcooley/RiderProjects/omega/omega/Pages/Home.razor]
+[/Users/jeremiahcooley/RiderProjects/omegatracker/omega/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jeremiahcooley/RiderProjects/omega/omega/Pages/Weather.razor]
+[/Users/jeremiahcooley/RiderProjects/omegatracker/omega/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jeremiahcooley/RiderProjects/omega/omega/_Imports.razor]
+[/Users/jeremiahcooley/RiderProjects/omegatracker/omega/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jeremiahcooley/RiderProjects/omega/omega/Layout/MainLayout.razor]
+[/Users/jeremiahcooley/RiderProjects/omegatracker/omega/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-79e6bhqjas
 
-[/Users/jeremiahcooley/RiderProjects/omega/omega/Layout/NavMenu.razor]
+[/Users/jeremiahcooley/RiderProjects/omegatracker/omega/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-p1mr7d7eut

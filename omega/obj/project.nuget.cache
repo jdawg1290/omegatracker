@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lKE67FFO47o=",
+  "dgSpecHash": "RohACp8rSm0=",
   "success": true,
-  "projectFilePath": "/Users/jeremiahcooley/RiderProjects/omega/omega/omega.csproj",
+  "projectFilePath": "/Users/jeremiahcooley/RiderProjects/omegatracker/omega/omega.csproj",
   "expectedPackageFiles": [
     "/Users/jeremiahcooley/.nuget/packages/microsoft.aspnetcore.authorization/8.0.8/microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "/Users/jeremiahcooley/.nuget/packages/microsoft.aspnetcore.components/8.0.8/microsoft.aspnetcore.components.8.0.8.nupkg.sha512",
