@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/obj/Debug/net8.0/compressed/y2vk1ep0ex.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/obj/Debug/net8.0/scopedcss/bundle/omega.styles.css",
+      "PackagePath": "staticwebassets/omega.styles.css"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/jeremiahcooley/RiderProjects/omega/omega/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.omega.props",
+      "PackagePath": "build\\omega.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.omega.props",
+      "PackagePath": "buildMultiTargeting\\omega.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.omega.props",
+      "PackagePath": "buildTransitive\\omega.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.omega.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

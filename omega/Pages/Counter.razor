@@ -1,0 +1,63 @@
+﻿@page "/counter"
+
+<PageTitle>Omega Tracker</PageTitle>
+
+<h1>Nova Counter</h1>
+
+<p style="@((novaCounter >= novaThreshold) ? "color: red;" : "color: black;")">Current counter: @novaCounter</p>
+
+<p>Current Phase: </p>
+
+<button class="btn btn-primary" @onclick="Attack">Attack</button>
+
+<button class="btn btn-primary" @onclick="OtherAction">@(GetSpecial())</button>
+
+<button disabled=@(novaCounter < novaThreshold ? "disabled" : null) class="btn btn-warning" @onclick="Nova">Nova</button>
+
+@code {
+
+    const string Phase1 = "Phase 1";
+    const string Phase2 = "Phase 2";
+    const string Phase3 = "Phase 3";
+    const string Phase4 = "PHase 4";
+    private string currentPhase = Phase1; 
+
+    const int novaThreshold = 30;
+    const int attackIncrement = 5;
+    const int otherIncrement = 2;
+    private int novaCounter = 0;
+
+    private void Attack()
+    {
+        novaCounter += attackIncrement;
+    }
+
+    private void OtherAction()
+    {
+        novaCounter += otherIncrement;
+        currentPhase = currentPhase switch
+        {
+            Phase1 => Phase2,
+            Phase2 => Phase3,
+            Phase3 => Phase4,
+            Phase4 => Phase1
+        };
+    }
+
+    private void Nova()
+    {
+        novaCounter = 0;
+    }
+    
+    private string GetSpecial()
+    {
+        return currentPhase switch
+        {
+            Phase1 => "Core Energy",
+            Phase2 => "Break/Confuse",
+            Phase3 => "Shimmering Rain",
+            Phase4 => "Demi/Ultima"
+        };
+    }
+
+}
